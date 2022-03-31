@@ -1,11 +1,10 @@
 {
     "song":
         [{
-            "title": "WHY AM I STILL IN LA (feat. Shlohmo & D33J)", 
-            "artist": "Joji",
-            "albumcover": "https://upload.wikimedia.org/wikipedia/en/6/6a/Joji_%E2%80%93_Ballads_1.png",
-            "url": "https://open.spotify.com/track/1X8YgRhzbdXb1vZNLUTn9g?si=9NxEJCoPRtG_Wj42ZzFfpA&utm_source=copy-link",
-            "trackuri": "spotify:track:1X8YgRhzbdXb1vZNLUTn9g"
-            
+            "title": "Our Love Remains", 
+            "artist": "Rei Brown",
+            "albumcover": "https://e.snmc.io/i/600/w/9d9b2a75148af74c916ba2bc356d5d70/7071650/rei-brown-raybaboon-Cover-Art.png",
+            "url": "https://open.spotify.com/track/7doSYW71rxRVAj49ilysHd?si=6-xOer10RcaltNk9HIxYIA&utm_source=copy-link",
+            "trackuri": "spotify:track:7doSYW71rxRVAj49ilysHd"
         }]
 }
