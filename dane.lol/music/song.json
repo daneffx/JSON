@@ -1,10 +1,10 @@
 {
     "song":
         [{
-            "title": "Anchor", 
-            "artist": "Novo Amor",
-            "albumcover": "https://m.media-amazon.com/images/I/81o52idsamL._AC_SX425_.jpg",
-            "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq?si=jhW8iJP5RS6f-Ep-gk7Rog&utm_source=copy-link",
-            "trackuri": "spotify:track:7qH9Z4dJEN0l9bidizW7fq"
+            "title": "Wait", 
+            "artist": "M83",
+            "albumcover": "https://townsquare.media/site/838/files/2021/12/attachment-M83_HUWD10_CoverArt_hires.jpg?w=1600&q=75",
+            "url": "https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP?si=rDz6FdfQRMqi0ECGWPC_DQ&utm_source=copy-link",
+            "trackuri": "spotify:track:01Q3OyB05mLgH01fpdAMPP"
         }]
 }
