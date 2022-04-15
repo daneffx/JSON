@@ -1,10 +1,10 @@
 {
     "song":
         [{
-            "title": "Wait", 
-            "artist": "M83",
-            "albumcover": "https://townsquare.media/site/838/files/2021/12/attachment-M83_HUWD10_CoverArt_hires.jpg?w=1600&q=75",
-            "url": "https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP?si=rDz6FdfQRMqi0ECGWPC_DQ&utm_source=copy-link",
-            "trackuri": "spotify:track:01Q3OyB05mLgH01fpdAMPP"
+            "title": "Take Me Somewhere Nice", 
+            "artist": "Mogwai",
+            "albumcover": "https://media.pitchfork.com/photos/5929b1025e6ef9596932206e/1:1/w_600/e954a7ae.jpeg",
+            "url": "https://open.spotify.com/track/1cZET7z7pjEaaC9Eq6kxQr?si=oG9mmrvdQ-q8e0xs2sJtzQ&utm_source=copy-link",
+            "trackuri": "spotify:track:1cZET7z7pjEaaC9Eq6kxQr"
         }]
 }
