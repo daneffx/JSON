@@ -1,5 +1,5 @@
 {
-    "1":
+    "1": {
         [{
             "title": "A sad cartoon", 
             "artist": "Loathe",
@@ -7,8 +7,9 @@
             "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc?si=080f4babfc4748a3",
             "trackuri": "spotify:track:4H7WNRErSbONkM06blBoGc"
             "date": "06/07/2022"
-        }],
-    "2":
+        }]
+    },
+    "2": {
         [{
             "title": "Whole", 
             "artist": "Basement",
@@ -16,8 +17,9 @@
             "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc?si=080f4babfc4748a3",
             "trackuri": "spotify:track:4H7WNRErSbONkM06blBoGc"
             "date": "06/07/2022"
-        }],
-    "3":
+        }]
+    },
+    "3": {
         [{
             "title": "Pray", 
             "artist": "Sweatcult",
@@ -25,7 +27,8 @@
             "url": "https://open.spotify.com/track/4hG5Bx5qg7wOwDkaioqVd6?si=9NMmNItMQtmPsddgwyT75Q&utm_source=copy-link",
             "trackuri": "spotify:track:4hG5Bx5qg7wOwDkaioqVd6"
             "date": "07/07/2022"
-        }],
+        }]
+    },
     "4":
         [{
             "title": "Stay", 
