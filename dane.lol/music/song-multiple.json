@@ -1,0 +1,38 @@
+{
+    "1":
+        [{
+            "title": "A sad cartoon", 
+            "artist": "Loathe",
+            "albumcover": "https://albumart.besteveralbums.com/albumart/album_large_134360_5c51bd531b18d.jpg",
+            "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc?si=080f4babfc4748a3",
+            "trackuri": "spotify:track:4H7WNRErSbONkM06blBoGc",
+            "date": "06/07/2022"
+        }],
+    "2":
+        [{
+            "title": "Whole", 
+            "artist": "Basement",
+            "albumcover": "https://albumart.besteveralbums.com/albumart/album_large_134360_5c51bd531b18d.jpg",
+            "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc?si=080f4babfc4748a3",
+            "trackuri": "spotify:track:4H7WNRErSbONkM06blBoGc",
+            "date": "07/07/2022"
+        }],
+    "3":
+        [{
+            "title": "Pray", 
+            "artist": "Sweatcult",
+            "albumcover": "https://i.scdn.co/image/ab67616d0000b273c4900f971658f068832b22f7",
+            "url": "https://open.spotify.com/track/4hG5Bx5qg7wOwDkaioqVd6?si=9NMmNItMQtmPsddgwyT75Q&utm_source=copy-link",
+            "trackuri": "spotify:track:4hG5Bx5qg7wOwDkaioqVd6",
+            "date": "08/07/2022"
+        }],
+    "4":
+        [{
+            "title": "Stay", 
+            "artist": "Post Malone",
+            "albumcover": "https://albumart.besteveralbums.com/albumart/album_large_134360_5c51bd531b18d.jpg",
+            "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc?si=080f4babfc4748a3",
+            "trackuri": "spotify:track:4H7WNRErSbONkM06blBoGc",
+            "date": "09/07/2022"
+        }]
+}
